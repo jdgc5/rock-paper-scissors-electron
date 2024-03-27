@@ -1,0 +1,17 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+
+.button{
+    padding: 15px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    font-size: 1.3rem;
+    background-color: black;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
